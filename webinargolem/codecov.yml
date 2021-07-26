@@ -1,5 +1,9 @@
 comment: false
 
+codecov:
+  token: "5608402a-fd98-4fc0-8629-bc5f653e9470"
+  bot: "codecov-io"
+  
 coverage:
   status:
     project:
@@ -12,6 +16,3 @@ coverage:
         target: auto
         threshold: 1%
         informational: true
-        
-
-CODECOV_TOKEN:'5608402a-fd98-4fc0-8629-bc5f653e9470'
