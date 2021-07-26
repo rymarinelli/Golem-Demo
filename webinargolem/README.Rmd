@@ -17,8 +17,13 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
  [![Codecov test coverage](https://codecov.io/gh/rymarinelli/Golem-Demo/branch/main/graph/badge.svg)](https://codecov.io/gh/rymarinelli/Golem-Demo?branch=main)
+<<<<<<< HEAD
 [![Codecov test coverage](https://codecov.io/gh/rymarinelli/golex/branch/main/graph/badge.svg)](https://codecov.io/gh/rymarinelli/Golem-Demo?branch=main)
 [![R-CMD-check](https://github.com/rymarinelli/Golem-Demo/workflows/R-CMD-check/badge.svg)](https://github.com/rymarinelli/Golem-Demo/actions)
+=======
+[![Codecov test coverage](https://codecov.io/gh/rymarinelli/Golem-Demo/branch/main/graph/badge.svg)](https://codecov.io/gh/rymarinelli/Golem-Demo?branch=main)
+[![Travis build status](https://travis-ci.com/rymarinelli/golex.svg?branch=main)](https://travis-ci.com/rymarinelli/golex)
+>>>>>>> 252e8b3bbf44511c63e85387bdfd932af3a4a8e4
 <!-- badges: end -->
 
 The goal of webinargolem is to ...
