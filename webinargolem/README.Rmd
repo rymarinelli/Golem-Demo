@@ -16,8 +16,8 @@ knitr::opts_chunk$set(
 # webinargolem
 
 <!-- badges: start -->
- [![Codecov test coverage](https://codecov.io/gh/rymarinelli/golex/branch/main/graph/badge.svg)](https://codecov.io/gh/rymarinelli/Golem-Demo?branch=main)
-[![Codecov test coverage](https://codecov.io/gh/rymarinelli/golex/branch/main/graph/badge.svg)](https://codecov.io/gh/rymarinelli/Golem-Demo?branch=main)
+ [![Codecov test coverage](https://codecov.io/gh/rymarinelli/Golem-Demo/branch/main/graph/badge.svg)](https://codecov.io/gh/rymarinelli/Golem-Demo?branch=main)
+[![Codecov test coverage](https://codecov.io/gh/rymarinelli/Golem-Demo/branch/main/graph/badge.svg)](https://codecov.io/gh/rymarinelli/Golem-Demo?branch=main)
 [![Travis build status](https://travis-ci.com/rymarinelli/golex.svg?branch=main)](https://travis-ci.com/rymarinelli/golex)
 <!-- badges: end -->
 
